@@ -95,6 +95,11 @@ It merges:
 
 ---
 
+## 🌐 Company Website
+Visit us at [FourEdges.io](https://fouredges.io/)
+
+---
+
 ## 🔐 Data Privacy & Security
 Our **data handling approach** prioritizes **client data sovereignty** through:  
 - **On-premises deployment**  
